@@ -1,0 +1,3 @@
+httplib2
+webapp2
+google-api-python-client
